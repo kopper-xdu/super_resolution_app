@@ -1,6 +1,6 @@
 # Introduction
 
-A app used to upscale your images. This app uses the [SRLUT](https://deepai.org/machine-learning-model/image-upscaling) algorithm to upscale your images. The app is built using the [Flutter](https://flutter.dev/) framework and the [Dart](https://dart.dev/) programming language.
+An app used to upscale your images. This app uses the [SR-LUT](https://github.com/yhjo09/SR-LUT) algorithm to upscale your images. The app is built using the [Flutter](https://flutter.dev/) framework and the [Dart](https://dart.dev/) programming language.
 
 # Getting Started
 
