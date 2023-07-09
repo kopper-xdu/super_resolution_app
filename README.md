@@ -27,4 +27,4 @@ Or directlt use the pre-built apk file in the [releases](https://github.com/kopp
 
 # Screenshots
 
-![Screenshot 1](screenshots/screenshot_1.png)
+![Screenshot 1](screenshots/1.png)
