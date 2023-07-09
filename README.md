@@ -22,3 +22,9 @@ Then you can build the project using the following command:
 ```bash 
 flutter build apk
 ```
+
+Or directlt use the pre-built apk file in the [releases](https://github.com/kopper-xdu/super_resolution_app/releases)
+
+# Screenshots
+
+![Screenshot 1](screenshots/screenshot_1.png)
