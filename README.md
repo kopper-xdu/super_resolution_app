@@ -1,10 +1,12 @@
-# super_resolution
+# Introduction
 
-A new Flutter project.
+A app used to upscale your images. This app uses the [SRLUT](https://deepai.org/machine-learning-model/image-upscaling) algorithm to upscale your images. The app is built using the [Flutter](https://flutter.dev/) framework and the [Dart](https://dart.dev/) programming language.
 
-## Getting Started
+# Getting Started
 
-This project is a starting point for a Flutter application.
+This project is is my first attempt at using Flutter and Dart for Android development.
+
+To build this project, you will need to have the Flutter SDK installed on your machine. You can find the installation instructions [here](https://flutter.dev/docs/get-started/install).
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -14,3 +16,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Then you can build the project using the following command:
+
+```bash
+flutter build apk
+```
