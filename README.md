@@ -19,6 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 
 Then you can build the project using the following command:
 
-```bash
+```bash 
 flutter build apk
 ```
